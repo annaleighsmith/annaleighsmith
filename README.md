@@ -5,5 +5,3 @@ Hi there 👋
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=annaleighsmith"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaleighsmith&hide=javascript,html)"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaleighsmith&langs_count=8)"/>
