@@ -1,6 +1,6 @@
 Hi there 👋
 - 🔭 I’m currently working as an Data Engineer 
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust and Java
 - 👯 I’m looking to collaborate on open-source desktop and CLI applications for Linux
 
 #### Repository Stats
